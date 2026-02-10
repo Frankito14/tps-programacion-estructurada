@@ -1,0 +1,72 @@
+name: 3EnLinea
+rules:
+  - when:
+      red: 0
+      green: 0
+      blue: 0
+      black: 1
+    image: 3EnLinea - Columna_1.png
+    text: null
+  - when:
+      red: 0
+      green: 0
+      blue: 0
+      black: 2
+    image: 3EnLinea - Columna_2.png
+    text: null
+  - when:
+      red: 0
+      green: 0
+      blue: 0
+      black: 3
+    image: 3EnLinea - Columna_3.png
+    text: null
+  - when:
+      red: 0
+      green: 0
+      blue: 0
+      black: 4
+    image: 3EnLinea - Columna_4.png
+    text: null
+  - when:
+      red: 0
+      green: 0
+      blue: 0
+      black: 5
+    image: 3EnLinea - Columna_5.png
+    text: null
+  - when:
+      red: 0
+      green: 0
+      blue: 0
+      black: 6
+    image: 3EnLinea - Columna_6.png
+    text: null
+  - when:
+      red: 0
+      green: 0
+      blue: 1
+      black: 1
+    image: 3EnLinea - FichaVioleta.png
+    text: null
+  - when:
+      red: 1
+      green: 1
+      blue: 0
+      black: 0
+    image: 3EnLinea - FichaNaranja.png
+    text: null
+  - when:
+      red: 0
+      green: 0
+      blue: 0
+      black: 0
+    image: 3EnLinea - FichaVacio.png
+    text: null
+  - when:
+      red: 0
+      green: 0
+      blue: 1
+      black: 9
+    image: numero9 - FichasEnLinea.png
+    text: null
